@@ -14,7 +14,7 @@ Entusiasta de Segurança da Informação e Desenvolvimento, com forte perfil aut
 * 🎯 **Objetivo:** Atuar na área de TI, expandindo conhecimentos em infraestrutura, redes e desenvolvimento.
 * 🚀 **Evolução:** Estudando Formação Hacker (Pentest, OSINT, Redes) e me aprofundando em arquitetura de sistemas Linux.
 * 💡 **Interesses:** CTF, Hardware Hacking, Segurança em IoT, desenvolvimento de softwares.
-* 💻 **Projetos:** Atuei no desenvolvimento do Geo Pet Care, um projeto de faculdade de engenharia de software voltado para uma ONG.
+* 💻 **Projetos:** Atuei no desenvolvimento do GeoPetCare, um projeto de faculdade de engenharia de software voltado para uma ONG.
 * 📫 **Contato:** [caiosimoesmartins@gmail.com](mailto:caiosimoesmartins@gmail.com)
 
 🛠️ **Minhas Habilidades**
