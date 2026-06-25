@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou o Caio Simões Martins
+[# Olá 👋 Eu sou o Caio Simões Martins
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C4ioSimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
@@ -48,3 +48,4 @@ Entusiasta de **Segurança da Informação** e **Desenvolvimento**, com forte pe
 <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+](www.linkedin.com/in/caiosimõesmartins/)
