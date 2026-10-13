@@ -10,7 +10,7 @@
 <br/>
 
 <a href="mailto:caiosimoesmartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=7c3aed" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/caiosim%C3%B5esmartins"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=06b6d4" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/caiosimoesmartins"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=06b6d4" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Guarulhos,%20SP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=7c3aed" alt="Guarulhos"/>
 
 </div>
