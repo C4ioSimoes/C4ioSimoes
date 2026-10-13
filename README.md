@@ -12,17 +12,12 @@
 <a href="mailto:caiosimoesmartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=7c3aed" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/caiosim%C3%B5esmartins"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=06b6d4" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Guarulhos,%20SP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=7c3aed" alt="Guarulhos"/>
-<img src="https://komarev.com/ghpvc/?username=C4ioSimoes&style=for-the-badge&color=7c3aed&label=VISITAS" alt="Visitas"/>
 
 </div>
 
 <br/>
 
 ## `> cat sobre_mim.md`
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 Estudante de **Ciência da Computação** (6º semestre) na **Universidade Guarulhos (UNG)**, autodidata e movido a resolver problemas — do kernel ao front-end.
 
@@ -35,22 +30,13 @@ interesses: [CTF, Hardware Hacking, IoT Security, IA]
 distro:     Arch Linux 🐧
 ```
 
-</td>
-<td width="42%" valign="top">
 
-🛡️ **Pentest & OSINT** — reconhecimento, exploração e análise de vulnerabilidades
+- 🛡️ **Pentest & OSINT** — reconhecimento, exploração e análise de vulnerabilidades
+- 🧠 **IA & Redes Neurais** — Perceptron, Adaline e regressão aplicada
+- 🖥️ **Desktop & 3D** — assistente de voz em Electron + Three.js
+- 📱 **Mobile** — React Native / Expo e Android nativo em Kotlin
+- 🎮 **Games** — jogos em Godot com GDScript
 
-🧠 **IA & Redes Neurais** — Perceptron, Adaline e regressão aplicada
-
-🖥️ **Desktop & 3D** — assistente de voz em Electron + Three.js
-
-📱 **Mobile** — React Native / Expo e Android nativo em Kotlin
-
-🎮 **Games** — jogos em Godot com GDScript
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -58,7 +44,7 @@ distro:     Arch Linux 🐧
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css,prolog,godot,bash&theme=dark" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css,godot,bash&theme=dark" alt="Linguagens" />
 
 <br/><br/>
 
@@ -68,7 +54,7 @@ distro:     Arch Linux 🐧
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572B6)
-![Prolog](https://img.shields.io/badge/Prolog-0d1117?style=flat-square&logo=swi-prolog&logoColor=E61B23)
+![Prolog](https://img.shields.io/badge/%CE%BB%20Prolog-0d1117?style=flat-square)
 ![GDScript](https://img.shields.io/badge/GDScript-0d1117?style=flat-square&logo=godotengine&logoColor=478CBF)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -87,12 +73,12 @@ distro:     Arch Linux 🐧
 <img src="https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>SEGURANÇA · SISTEMAS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=kali,arch,linux,windows,git,github,vscode&theme=dark" alt="Segurança e Sistemas" />
 
-<br/><br/>
+<br/>
 
 <sub><b>BANCOS DE DADOS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Bancos de Dados" />
